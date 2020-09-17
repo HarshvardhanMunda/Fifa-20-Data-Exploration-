@@ -1,0 +1,2 @@
+# Fifa-20-Data-Exploration-
+Learn to use data Exploration techniques in order to uncover some initial patterns, insights and interesting points in your dataset. We are going to use a dataset consisting 5 CSV files, consisting of the data related to players in FIFA video game. We will clean and prepare it by dropping useless columns, calculating new features for our dataset and filling up the null values properly. and then we will start our exploration and we'll do some visualizations.
